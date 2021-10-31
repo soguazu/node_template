@@ -1,0 +1,16 @@
+/node_modules
+.env
+.history
+/dist
+/logs
+/temp
+/data
+.DS_Store
+npm-debug.log
+yarn-error.log
+.env.backup
+/playground
+.vscode
+.env
+/coverage
+docs
